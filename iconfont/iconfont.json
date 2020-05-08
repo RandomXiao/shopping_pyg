@@ -1,0 +1,23 @@
+{
+  "id": "1654100",
+  "name": "pyk_shopping",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1120980",
+      "name": "右箭头",
+      "font_class": "youjiantou1",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "8652812",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    }
+  ]
+}
